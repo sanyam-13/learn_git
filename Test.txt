@@ -1,7 +1,10 @@
 Hello
 This is John
 and 
-i have 
+Dave
+and
+we
+have 
 made
 this
 repository
