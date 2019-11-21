@@ -1,0 +1,7 @@
+Hello
+This is John
+and 
+i have 
+made
+this
+repository
