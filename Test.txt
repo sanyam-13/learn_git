@@ -1,9 +1,8 @@
 Hello
-This is John
-and 
+This is 
 Dave
 and
-we
+i
 have 
 made
 this
